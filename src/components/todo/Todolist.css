@@ -1,0 +1,29 @@
+table {
+  padding: 2px;
+  margin: auto auto auto auto;
+}
+
+td,
+th {
+  padding: 1em;
+  border-bottom: 1px steelblue solid;
+}
+
+tr {
+  border-bottom: 5px steelblue solid;
+}
+
+.table-container {
+  margin: auto auto auto auto;
+}
+
+.table-container > h2 {
+  text-align: center;
+  font-family: sans-serif;
+  color: steelblue;
+  text-shadow: rgb(145, 144, 144) 1px 1px;
+}
+
+td > button {
+  border: none;
+}
